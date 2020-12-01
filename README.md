@@ -5,4 +5,4 @@ Este repositório contempla todas as assignments desenvolvidades durante o prime
 
 ### Autor
 
-+ Iure Rosa
++ [Iure Rosa Lima de Oliveira](http://lattes.cnpq.br/3419329114775280)
