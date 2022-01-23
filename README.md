@@ -56,19 +56,19 @@ __**Objective :**__
 The goal of  this exercise is  to implement a PD controller to control the motion of a quadrotor in 2-D plane , as well as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
 have a rise time of less than 1s and a maximum overshoot of less than 5%. Two trajectories were tested. The first was quadrotor on a straight line while the second was a trajectory on a sine wave plath.
 
- <p align="center"><img src="./Images/Project%202/quad.jpg" /></p>
+ <p align="center"><img src="./T-Images/Project%202/quad.jpg" /></p>
  
  
 __**Results Obtained for Line Trajectory :**__
 
- <p align="center"><img src="./Images/Project%202/line_2d.gif" /></p>
+ <p align="center"><img src="./T-Images/Project%202/line_2d.gif" /></p>
  
  __**Results Obtained for Sine Wave Trajectory :**__
 
- <p align="center"><img src="./Images/Project%202/sine_2d.gif" /></p>
+ <p align="center"><img src="./T-Images/Project%202/sine_2d.gif" /></p>
  
   __**Results Obtained for 3D Trajectory :**__
   
-  <p align="center"><img src="./Images/Project%203/3d_trajectory.gif" /></p>
+  <p align="center"><img src="./T-Images/Project%203/3d_trajectory.gif" /></p>
  
  
