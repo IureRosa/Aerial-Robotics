@@ -67,3 +67,8 @@ __**Results Obtained for Line Trajectory :**__
 
  <p align="center"><img src="./Images/Project%202/sine_2d.gif" /></p>
  
+  __**Results Obtained for 3D Trajectory :**__
+  
+  <p align="center"><img src="./Images/Project%203/3d_trajectory.gif" /></p>
+ 
+ 
